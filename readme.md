@@ -1,6 +1,6 @@
 # Project Title
 
-This is a brief description of your project.
+Trying to build Chatbot using custom text file.
 
 ## Getting Started
 
@@ -40,20 +40,5 @@ Follow these steps to set up your development environment:
 5. **Train your model**:
     Train your model on your custom text file and create an embedding. The specific command depends on the code you're using for training.
 
-6. **Save your model locally**:
-    Save your trained model locally to save computation time in the future.
-
-7. **Run the code**:
+6. **Run the code**:
     Run your code by defining your custom question. The specific command depends on how your code is structured.
-
-## Usage
-
-Provide instructions on how to use your project.
-
-## Contributing
-
-Provide instructions on how others can contribute to your project.
-
-## License
-
-Add information about the license.
