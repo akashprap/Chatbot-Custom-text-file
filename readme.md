@@ -1,6 +1,6 @@
 # Project Title
 
-Trying to build Chatbot using custom text file.
+Chatbot using custom text file.
 
 ## Getting Started
 
